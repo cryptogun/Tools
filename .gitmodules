@@ -1,0 +1,3 @@
+[submodule "keyboard_as_mouse"]
+	path = keyboard_as_mouse
+	url = https://github.com/safetychinese/keyboard_as_mouse
